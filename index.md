@@ -4,10 +4,10 @@ title: Inicio
 nav_order: 1
 ---
 
-# Introducción a Docker
+# Introducción a Kubernetes
 {: .fs-9 }
 
-Curso "Introducción a Docker".
+Curso "Introducción a Kubernetes".
 {: .fs-6 .fw-300 }
 
 
